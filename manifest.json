@@ -2,7 +2,7 @@
     "name": "السراج في القرآن",
     "short_name": "السراج",
     "description": "Search for the meaning of Quranic words.",
-    "start_url": "/",
+    "start_url": "https://alsiraj.autos",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#317EFB",
